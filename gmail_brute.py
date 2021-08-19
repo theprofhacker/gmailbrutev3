@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #
-#hackapp.com
-#@hackappcom  p0c for FindMyIphone bug
-#allows to bruteforce passwords  without AppleID lock.
+#hackgmail
+#thehacker
+#allows to bruteforce passwords  without GmailID lock.
 #Before you start, make sure it's not illegal in your country.
 #Have a nice brute
 
